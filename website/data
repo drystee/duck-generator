@@ -1,0 +1,4 @@
+function newDuck() {
+    // Create a new duck for us to look at.
+    window.location.reload();
+}
